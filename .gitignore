@@ -1,0 +1,5 @@
+# Ignore macOS Finder user-related files
+.DS_Store
+
+# Ignore CocoaPods installed files
+Pods/
